@@ -66,7 +66,9 @@
 
 Tunahan Çakır - info@tunahancakir.com - [http://tunahancakir.com](http://tunahancakir.com)
 
-Project Link: [https://github.com/tunahan1306/Merging-Texts-Based-on-Similarity-FRONTEND](https://github.com/tunahan1306/Merging-Texts-Based-on-Similarity-FRONTEND)
+Project [FRONTEND] Link: [https://github.com/tunahan1306/Merging-Texts-Based-on-Similarity-FRONTEND](https://github.com/tunahan1306/Merging-Texts-Based-on-Similarity-FRONTEND)
+
+Project [BACKEND] Link: [https://github.com/tunahan1306/Merging-Texts-Based-on-Similarity-BACKEND](https://github.com/tunahan1306/Merging-Texts-Based-on-Similarity-BACKEND)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
